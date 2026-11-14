@@ -1,9 +1,3 @@
-# Indirect Psychological Assessment Question Bank for Astronauts
-
-**Technical Note:** These questions should be presented to the user with a rating slider (e.g., from 1 to 10, where 1 is the worst/lowest and 10 is the best/highest). Avoid using Yes/No options.
-
-## Part 1: Sleep Quality & Physical Recovery (20 Questions)
-
  1. How refreshed and energized did you feel upon waking up today?
  2. How would you rate the quality of your sleep last night compared to your usual?
  3. How easily did you fall asleep once you closed your eyes?
@@ -24,9 +18,6 @@
 18. To what extent do you feel you have regained full vitality to start new tasks?
 19. How would you describe your overall sense of alertness and physical readiness today?
 20. How comfortable did your body feel in the microgravity environment last night?
-
-## Part 2: Cognitive Load & Focus (20 Questions)
-
 21. How smoothly did you complete your complex tasks today without feeling mental fatigue?
 22. How would you rate your focus level while reading and reviewing technical instructions?
 23. To what extent was it easy to ignore visual or auditory distractions around you?
@@ -47,9 +38,6 @@
 38. To what extent do you feel your mind is ready to take on new, complex challenges?
 39. How would you describe your ability to think creatively to solve unexpected problems today?
 40. How would you rate your level of mental comfort (absence of cognitive load) at the end of the day?
-
-## Part 3: Social Dynamics & Crew Interaction (20 Questions)
-
 41. How would you rate the overall level of harmony and synchronization among the crew today?
 42. How smooth and clear was the communication between you and your colleagues on the station?
 43. To what extent did you feel comfortable spending shared time with the crew today?
@@ -70,9 +58,6 @@
 58. How balanced and fair did you feel the distribution of tasks was among everyone?
 59. How would you rate the level of mutual trust and reliance on one another during critical tasks?
 60. How would you describe the social atmosphere on the station in terms of tranquility and friendliness?
-
-## Part 4: Motivation, Task Satisfaction, & Mood (20 Questions)
-
 61. What was your level of enthusiasm and positive energy when starting your scheduled tasks today?
 62. How would you rate your sense of personal accomplishment at the end of this day?
 63. To what extent did you feel the tasks you performed today were enjoyable or meaningful?
@@ -93,9 +78,6 @@
 78. How much of a positive impact did communicating (or thinking about) your family/friends have on your day?
 79. How would you describe your overall level of psychological relaxation today?
 80. To what extent do you feel you are managing the rhythm of your day and controlling your emotions effectively?
-
-## Part 5: Physical Symptoms & Environmental Adaptation (20 Questions)
-
 81. How would you rate your physical comfort with the temperature and ventilation in the station today?
 82. What was your appetite level and positive reception of station food during today's meals?
 83. To what extent do you feel clear-headed (free from any headache or pressure) today?

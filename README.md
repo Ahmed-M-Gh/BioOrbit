@@ -41,11 +41,3 @@ A comprehensive control center for the ship's doctor to monitor the entire crew'
 * **Gravity Fields:** Monitors and maps bone/muscle degradation via the 3D model.
 * **Isolation/Confinement:** Actively tracks mental health through AI facial analysis and mood surveys to prevent behavioral crises.
 * **Distance from Earth:** Operates entirely offline with a local database, ensuring 100% autonomy without waiting for Ground Control.
-
----
-
-## 👥 The Team
-* **[Name]** - AI Engineer
-* **[Name]** - UI/UX Designer
-* **[Name]** - Flutter Developer
-* **[Name]** - FrontEnd Developer

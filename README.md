@@ -28,15 +28,6 @@ A comprehensive control center for the ship's doctor to monitor the entire crew'
 
 ---
 
-## 🛠️ Tech Stack
-* **Mobile App (Astronaut UI):** Flutter, Dart
-* **Web Dashboard (Medical UI):** [Insert your FrontEnd Tech: e.g., React, Vue, HTML/CSS/JS]
-* **3D Visualization:** [Insert tool used: e.g., Three.js, Flutter 3D packages]
-* **AI/Machine Learning:** [Insert AI tools: e.g., Python, TensorFlow/PyTorch, OpenCV for facial analysis]
-* **Database:** Local Database (SQLite / Hive) for autonomous offline operation in space.
-
----
-
 ## 🎯 How it Addresses NASA's Hazards
 * **Gravity Fields:** Monitors and maps bone/muscle degradation via the 3D model.
 * **Isolation/Confinement:** Actively tracks mental health through AI facial analysis and mood surveys to prevent behavioral crises.
